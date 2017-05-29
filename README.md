@@ -7,5 +7,5 @@ The picture below shows my setup:
 
 ![PCA9685 servo controller with a L298N H-Bridge setup](https://custom-build-robots.com/wp-content/uploads/2017/05/L298N_H-Bridge_PCA9685_02-300x225.jpg)
 
-
-[![PCA9685 servo controller](https://i.ytimg.com/vi/od1WKqxscNs/2.jpg)](https://www.youtube.com/watch?v=od1WKqxscNs"-Y "PCA9685 servo controller")
+## The Video shows the PCA9685 and L298N H-Bridge
+[![PCA9685 servo controller](https://i.ytimg.com/vi/od1WKqxscNs/0.jpg)](https://www.youtube.com/watch?v=od1WKqxscNs"-Y "PCA9685 servo controller")
