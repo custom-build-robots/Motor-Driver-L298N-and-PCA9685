@@ -2,7 +2,7 @@
 # coding: latin-1
 # Autor:   Ingmar Stapel
 # Datum:   20170529
-# Version:   2.0
+# Version:   1.0
 # Homepage:   http://custom-build-robots.com
 # Dieses Programm ist das sogenannte Steuerprogramm fuer das Roboter
 # Auto ueber die Konsole und Tastatur vom PC aus.
