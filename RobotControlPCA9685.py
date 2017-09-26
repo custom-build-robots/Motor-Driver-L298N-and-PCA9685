@@ -49,8 +49,8 @@ def printscreen():
    print("q:   stoppt die Motoren")
    print("x:   Programm beenden")
    print("========== Geschwindigkeitsanzeige ==========")
-   print "Geschwindigkeit linker Motor:  ", speedleft
-   print "Geschwindigkeit rechter Motor: ", speedright
+   print("Geschwindigkeit linker Motor:  ", speedleft)
+   print("Geschwindigkeit rechter Motor: ", speedright)
 
 # Diese Endlosschleife wird erst dann beendet wenn der Anwender 
 # die Taste X tippt. Solange das Programm laeuft wird ueber diese
